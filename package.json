@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "node_expressjs_website",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keereecht/Node_ExpressJS_website.git"
+  },
+  "author": "Keelee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keereecht/Node_ExpressJS_website/issues"
+  },
+  "homepage": "https://github.com/Keereecht/Node_ExpressJS_website#readme",
+  "description": ""
+}
